@@ -1,0 +1,182 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  max-width: 1920px;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding: 14px 0;
+}
+.about a {
+  color: #969696;
+  font-style: 12px;
+}
+.left ul {
+  display: flex;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  background-color: #0f0f0f;
+}
+.nav__links ul {
+  display: flex;
+}
+.nav__links a {
+  color: #969696;
+}
+.items {
+  padding-right: 40px;
+}
+.logo {
+  padding: 15px 0px;
+}
+.nav__links {
+  padding-top: 19px;
+}
+.main {
+  background-image: url(../images/asosiy.png);
+  text-align: center;
+}
+.paragraph {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0 595px;
+  padding-bottom: 125px;
+}
+.logo1 {
+  padding-top: 160px;
+  padding-bottom: 80px;
+}
+.section1 {
+  background-color: black;
+  display: flex;
+}
+.watch1 h1 {
+  font-size: 36px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 93px;
+  padding-bottom: 50px;
+}
+.line {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.ph {
+  padding-right: 36px;
+}
+.paragraph2 {
+  width: 960px;
+  height: 730px;
+  background-image: url(../images/novayakolleksiya.png);
+  text-align: center;
+}
+.paragraph2 p {
+  font-size: 39px;
+  color: white;
+  padding-top: 484px;
+  padding-bottom: 30px;
+}
+.katalog button {
+  width: 132px;
+  height: 53px;
+  font-size: 18px;
+
+  border-radius: 2px solid;
+  margin-top: 42px;
+}
+
+.section2 {
+  display: flex;
+}
+.section2 .fonphoto {
+  width: 960px;
+}
+
+.section2 .fonphoto img {
+  height: 100%;
+}
+.para {
+  text-align: center;
+  padding-top: 100px;
+  background: #000;
+}
+.section2 p {
+  font-size: 36px;
+  color: #ffffff;
+  padding-bottom: 40px;
+}
+.section2 h4 {
+  font-size: 14px;
+  color: #fff;
+  padding-top: 40px;
+}
+h4 {
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 40px;
+}
+.section2 button {
+  width: 255px;
+  height: 43px;
+  font-size: 18px;
+  border: #000;
+}
+.section2 button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.section3 {
+  background-color: black;
+  text-align: center;
+}
+.img5 {
+  padding-right: 23px;
+}
+.text3 p {
+  font-size: 36px;
+  color: white;
+  padding-bottom: 40px;
+  padding-top: 120px;
+}
+.logo3 {
+  padding-bottom: 81px;
+}
+.img4 {
+  padding-bottom: 150px;
+}
+.footer {
+  background-color: #0f0f0f;
+  text-align: center;
+}
+.footer .text6 {
+  font-size: 36px;
+  color: #fff;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.footer .line6 {
+  padding-bottom: 40px;
+}
+.footer .brend {
+  padding-bottom: 80px;
+}
